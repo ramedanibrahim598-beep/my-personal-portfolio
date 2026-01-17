@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://ramedanibrahim598-beep.github.io/my-personal-portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "clsx": "^2.1.1",
